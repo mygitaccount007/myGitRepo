@@ -1,2 +1,0 @@
-# myGitRepo
-My First Demo
